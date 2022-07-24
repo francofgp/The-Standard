@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_standard=self.webpackChunkthe_standard||[]).push([[8410],{6292:e=>{e.exports=JSON.parse('{"permalink":"/The-Standard/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

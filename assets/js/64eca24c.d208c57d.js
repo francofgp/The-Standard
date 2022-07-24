@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_standard=self.webpackChunkthe_standard||[]).push([[9117],{5228:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/The-Standard/blog/tags/facebook","allTagsPath":"/The-Standard/blog/tags","count":1}')}}]);

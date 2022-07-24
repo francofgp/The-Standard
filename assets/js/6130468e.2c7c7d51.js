@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_standard=self.webpackChunkthe_standard||[]).push([[2378],{7455:a=>{a.exports=JSON.parse('{"permalink":"/The-Standard/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
